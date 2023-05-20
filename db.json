@@ -69,7 +69,7 @@
     {
       "id": 1012,
       "category": "food",
-      "title": "Canned Food Drive 2",
+      "title": "Canned Food 2",
       "description": "Bring your canned food to donate to those in need.",
       "location": "Tin City",
       "date": "September 14, 2022",
@@ -80,7 +80,7 @@
     {
       "id": 1013,
       "category": "sustainability",
-      "title": "Highway Cleanup 2",
+      "title": "Highway 2",
       "description": "Help pick up trash along the highway.",
       "location": "Highway 50",
       "date": "July 22, 2022",
